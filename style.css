@@ -1,0 +1,28 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-position: 0% 25%;
+}
+
+.container {
+  text-align: center;
+}
+
+.shortcuts {
+  list-style: none;
+  display: inline-block;
+}
+
+.shortcuts a {
+    text-decoration: none;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.shortcuts li {
+  display: inline-block;
+  margin-left: 50px;
+  font-size: 75px;
+}
