@@ -21,6 +21,10 @@ body {
     font-weight: bold;
 }
 
+.shortcuts a:hover {
+  color: #F05F40
+}
+
 .shortcuts li {
   display: inline-block;
   margin-left: 50px;
